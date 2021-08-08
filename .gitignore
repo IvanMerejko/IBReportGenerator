@@ -1,3 +1,4 @@
 *.csv
 logs/*
 __pycache__/
+clientportal.gw/
